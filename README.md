@@ -1,7 +1,3 @@
-Here's a `README.md` for your finance tracking app:
-
----
-
 # Finance Tracker
 
 A simple finance tracking app built with React to manage expenditures. This project is focused on learning **props**, **state management**, and **basic React hooks**.
@@ -24,17 +20,20 @@ A simple finance tracking app built with React to manage expenditures. This proj
 ## Installation & Setup
 
 1. Clone the repository:
+
    ```sh
    git clone https://github.com/your-username/finance-tracker.git
    cd finance-tracker
    ```
 
 2. Install dependencies:
+
    ```sh
    npm install
    ```
 
 3. Start the development server:
+
    ```sh
    npm run dev
    ```
@@ -47,20 +46,23 @@ A simple finance tracking app built with React to manage expenditures. This proj
 ## Components Overview
 
 ### `Home.js`
+
 - Manages the state (`useState`) and side effects (`useEffect`).
 - Handles API requests (fetch, post, delete).
 - Controls form visibility and search filtering.
 
 ### `Search.js`
+
 - Receives `handleSearch` as a **prop** and updates the search query.
 
 ### `NewExpenditureForm.js`
+
 - Accepts `addNewExpenditure` as a **prop** to handle form submission.
 
 ### `ExpenditureList.js`
+
 - Displays expenditures using **props**.
 - Calls `handleDelete` from **props** to delete an expenditure.
-
 
 ## Learning Goals
 
