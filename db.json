@@ -1,0 +1,166 @@
+{
+  "expenditures": [
+    {
+      "id": "2",
+      "title": "Uber Ride",
+      "amount": 15,
+      "date": "2025-02-03",
+      "category": "Transport",
+      "paymentMethod": "Credit Card",
+      "description": "Ride to work."
+    },
+    {
+      "id": "3",
+      "title": "Electricity Bill",
+      "amount": 100,
+      "date": "2025-02-01",
+      "category": "Bills",
+      "paymentMethod": "PayPal",
+      "description": "Monthly electricity payment."
+    },
+    {
+      "id": "4",
+      "title": "Movie Tickets",
+      "amount": 30,
+      "date": "2025-02-02",
+      "category": "Entertainment",
+      "paymentMethod": "Debit Card",
+      "description": "Watched the latest blockbuster."
+    },
+    {
+      "id": "5",
+      "title": "Gas Refill",
+      "amount": 60,
+      "date": "2025-02-05",
+      "category": "Bills",
+      "paymentMethod": "Cash",
+      "description": "Refilled home gas cylinder."
+    },
+    {
+      "id": "6",
+      "title": "Dinner at Restaurant",
+      "amount": 45,
+      "date": "2025-02-06",
+      "category": "Food",
+      "paymentMethod": "Debit Card",
+      "description": "Family dinner at a local restaurant."
+    },
+    {
+      "id": "8",
+      "title": "Netflix Subscription",
+      "amount": 12.99,
+      "date": "2025-02-08",
+      "category": "Entertainment",
+      "paymentMethod": "PayPal",
+      "description": "Monthly Netflix plan."
+    },
+    {
+      "id": "9",
+      "title": "New Shoes",
+      "amount": 75,
+      "date": "2025-02-09",
+      "category": "Shopping",
+      "paymentMethod": "Debit Card",
+      "description": "Bought running shoes."
+    },
+    {
+      "id": "10",
+      "title": "Car Fuel",
+      "amount": 50,
+      "date": "2025-02-10",
+      "category": "Transport",
+      "paymentMethod": "Cash",
+      "description": "Filled up gas tank."
+    },
+    {
+      "id": "11",
+      "title": "Concert Tickets",
+      "amount": 120,
+      "date": "2025-02-11",
+      "category": "Entertainment",
+      "paymentMethod": "Credit Card",
+      "description": "Bought tickets for a live concert."
+    },
+    {
+      "id": "12",
+      "title": "Laptop Repair",
+      "amount": 150,
+      "date": "2025-02-12",
+      "category": "Technology",
+      "paymentMethod": "PayPal",
+      "description": "Replaced battery and cleaned up software."
+    },
+    {
+      "id": "13",
+      "title": "Books Purchase",
+      "amount": 40,
+      "date": "2025-02-13",
+      "category": "Education",
+      "paymentMethod": "Debit Card",
+      "description": "Bought programming and self-development books."
+    },
+    {
+      "id": "14",
+      "title": "Phone Bill",
+      "amount": 30,
+      "date": "2025-02-14",
+      "category": "Bills",
+      "paymentMethod": "Credit Card",
+      "description": "Monthly mobile service payment."
+    },
+    {
+      "id": "15",
+      "title": "Fast Food",
+      "amount": 20,
+      "date": "2025-02-15",
+      "category": "Food",
+      "paymentMethod": "Cash",
+      "description": "Bought a burger and fries."
+    },
+    {
+      "id": "16",
+      "title": "Doctor Appointment",
+      "amount": 90,
+      "date": "2025-02-16",
+      "category": "Health & Fitness",
+      "paymentMethod": "Debit Card",
+      "description": "Routine check-up and lab tests."
+    },
+    {
+      "id": "17",
+      "title": "Grocery Shopping",
+      "amount": 65,
+      "date": "2025-02-17",
+      "category": "Food",
+      "paymentMethod": "Credit Card",
+      "description": "Weekly groceries shopping."
+    },
+    {
+      "id": "18",
+      "title": "Spotify Subscription",
+      "amount": 9.99,
+      "date": "2025-02-18",
+      "category": "Entertainment",
+      "paymentMethod": "PayPal",
+      "description": "Premium music subscription."
+    },
+    {
+      "id": "19",
+      "title": "Public Transport",
+      "amount": 10,
+      "date": "2025-02-19",
+      "category": "Transport",
+      "paymentMethod": "Cash",
+      "description": "Bus fare for the day."
+    },
+    {
+      "id": "e626",
+      "title": "sadaka",
+      "amount": 1500,
+      "date": "2025-02-03",
+      "category": "Bills",
+      "paymentMethod": "Cash",
+      "description": "sadaka"
+    }
+  ]
+}
